@@ -1,9 +1,11 @@
-# RetrospectivePFValidity2023
+# JIT-SDP-Retrospective-Performance-Validity
 
 This repository contains the Python and Matlab codes used for the paper:
 ```
 Liyan Song, Leandro L. Minku and Xin Yao. "On the Validity of Retrospective Predictive Performance Evaluation Procedures in Just-In-Time Software Defect Prediction" submitted to Empirical Software Engineering in August 2022
 ```
+
+The datasets generated during and/or analysed during the current study are available from [https://github.com/sunnysong14/jit-sdp-data](https://github.com/sunnysong14/jit-sdp-data). Please do place the datasets you are willing to investigate in the folder “/data/”.
 
 The Python part is used to implement the JIT-SDP process with various training waiting times along with all possible evaluation waiting times. Experimental results in Python are stored in the folder “rslt.python”, among which the best parameters are stored in the folder “rslt.python/para.bst/ and experimental results of software projects with various parameter settings and different length of the data streams are stored in the folder (e.g.) “rslt.python/rslt.save/brackets/15d/theta0.99_M20/T5000”. 
 
