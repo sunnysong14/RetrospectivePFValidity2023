@@ -1,9 +1,9 @@
+*********************************************
 # JIT-SDP-Retrospective-Performance-Validity
 
 This repository contains the Python and Matlab codes used for the paper:
-```
-Liyan Song, Leandro L. Minku and Xin Yao. "On the Validity of Retrospective Predictive Performance Evaluation Procedures in Just-In-Time Software Defect Prediction" submitted to Empirical Software Engineering in August 2022
-```
+
+> Liyan Song, Leandro L. Minku and Xin Yao. "On the Validity of Retrospective Predictive Performance Evaluation Procedures in Just-In-Time Software Defect Prediction" submitted to Empirical Software Engineering in August 2022
 
 The datasets generated during and/or analysed during the current study are available from [https://github.com/sunnysong14/jit-sdp-data](https://github.com/sunnysong14/jit-sdp-data). Please do place the datasets you are willing to investigate in the folder “/data/”.
 
